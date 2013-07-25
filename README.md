@@ -1,5 +1,5 @@
-Welcome to Cloudify Player Mongo Recipe
-=======================================
+The Cloudify Player Mongo Recipe
+================================
 
 This repo contains a simple Cloudify mongo recipe that can be used by the [Cloudify Player](http://launch.cloudifysource.org). 
 For more details about Cloudify recipes refer to the [Cloudify documentation](http://www.cloudifysource.org/guide/2.6/developing/recipes_overview). 
